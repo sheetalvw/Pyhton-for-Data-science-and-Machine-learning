@@ -1,2 +1,3 @@
 # Pyhton-for-Data-science-and-Machine-learning
-Data Analysis 
+Self learning Data Analysis and Machine learning.
+Learnt how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow
